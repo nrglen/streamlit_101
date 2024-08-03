@@ -1,2 +1,2 @@
 # streamlit_101
-Este e smi primer proyecto en streamlit
+Este es mi primer proyecto en streamlit
